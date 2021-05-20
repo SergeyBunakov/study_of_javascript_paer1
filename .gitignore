@@ -2,7 +2,7 @@
 node_modules
 /.pnp
 .pnp.js
-
+external-assets-links.txt
 # testing
 /coverage
 

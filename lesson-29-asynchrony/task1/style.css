@@ -44,3 +44,21 @@ h2 {
     opacity: 0.7;
     margin: 16px;
 }
+
+/*====================*/
+.btn-click {
+    width: 159px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.btn {
+    padding: 5px 25px;
+    text-align: center;
+}
+.btn:hover {
+    cursor: pointer;
+}
+
+
+

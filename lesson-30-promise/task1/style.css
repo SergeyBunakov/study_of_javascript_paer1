@@ -46,7 +46,19 @@ h2 {
 }
 
 /*====================*/
+.btn-click {
+    width: 159px;
+    height: 70px;
+    margin: 0 auto;
+}
 
+.btn {
+    padding: 5px 25px;
+    text-align: center;
+}
+.btn:hover {
+    cursor: pointer;
+}
 
 
 

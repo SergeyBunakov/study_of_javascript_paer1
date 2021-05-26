@@ -25,9 +25,3 @@ export const onToggleTask = e => {
             renderTasks();
         });
 };
-
-// 1. Prepare data
-// 2. Update data in db
-// 3. Read new data from server
-// 4. Save new data to front-end storage
-// 5. Update UI based on new data
